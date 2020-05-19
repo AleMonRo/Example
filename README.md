@@ -28,7 +28,11 @@ This repository is going to be used as an example for a git training session
     - Command: git checkout.
     - Working with master and develop
 
-7. Starting to version your code
+
+7. info
+    - add for conflicts
+
+8. Starting to version your code
     - Basic commands
     - How to identify your changes\
     Command: git status
