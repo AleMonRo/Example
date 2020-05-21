@@ -9,6 +9,7 @@ This repository is going to be used as an example for a git training session
 
 2. Git Installation and Basic Tool (Git Bash)
     - Configuring git (Name, Email)
+    - git init
 
 3. The remote repository
     - Explain what is the remote.
@@ -32,7 +33,6 @@ This repository is going to be used as an example for a git training session
     - add for conflicts
 
 8. Starting to version your code today
-
     - Basic commands
     - How to identify your changes\
     Command: git status
